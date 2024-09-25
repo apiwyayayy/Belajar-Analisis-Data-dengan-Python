@@ -32,4 +32,4 @@ cd dashboard
 streamlit run dashboard.py
 ```
 
-or you can access the following link [dashboard](url.txt)
+or you can access the following link [dashboard](https://apiw-dashboard.streamlit.app/)
